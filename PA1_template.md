@@ -2,9 +2,12 @@
 ### Reproducible Research course
 ### Johns Hopkins University
 ## Peer Assessment 1
-==========================================\
-Eduardo Rene Rodriguez Avila\
+---
+*Eduardo Rene Rodriguez Avila*
+
 June 2015
+
+---
 
 ### Initial settings
 
